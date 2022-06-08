@@ -3,7 +3,7 @@
 The written analysis has the following:
 
 ## Overview of the project:
-After the completion of school district analysis, the school board notified that the [students_complete.csv](https://github.com/sharof17/Elect) file had evidence of academic dishonesty; reading and math grades for Thomas High School ninth graders seemed to have been altered. Although the full extent of the academic dishonesty was not known, the school board wanted to uphold state-testing standards.
+After the completion of school district analysis, the school board notified that the [students_complete.csv](https://github.com/sharof17/School_District_Analysis/blob/main/Resources/students_complete.csv) file had evidence of academic dishonesty; reading and math grades for Thomas High School ninth graders seemed to have been altered. Although the full extent of the academic dishonesty was not known, the school board wanted to uphold state-testing standards.
 
 ### Purpose
 The purpose of the project is to disregard the math and reading scores for Thomas High School ninth graders by replacing them with NaNs while keeping the rest of the data intact.
