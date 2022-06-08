@@ -1,7 +1,5 @@
 # School_District_Analysis
 
-The written analysis has the following:
-
 ## Overview of the project:
 After the completion of school district analysis, the school board notified that the [students_complete.csv](https://github.com/sharof17/School_District_Analysis/blob/main/Resources/students_complete.csv) file had evidence of academic dishonesty; reading and math grades for Thomas High School ninth graders seemed to have been altered. Although the full extent of the academic dishonesty was not known, the school board wanted to uphold state-testing standards.
 
@@ -39,7 +37,7 @@ The tables above are sorted in descending order and show that the performace of 
 
 #### - Math and reading scores by grade
 
-  In the following tables it is clear that instead of the Thomas High School ninth-grade scores there are NaNs. 
+  In the following tables there are NaNs instead of the Thomas High School ninth-grade scores. 
   
   *Math scores by grade before*
 
@@ -58,7 +56,7 @@ The tables above are sorted in descending order and show that the performace of 
   ![Reading scores by grade after](Resources/images/reading_score_after.png)
 
 #### - Scores by school spending
-  Replacing the ninth graders’ math and reading scores did not have a big effect on scores by school spendgin.
+  Replacing the ninth graders’ math and reading scores did not have a big effect on scores by school spending.
   
   *Before*
 
